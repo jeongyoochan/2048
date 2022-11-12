@@ -8,6 +8,6 @@
 This project is for developing ~~ game
 
 # Member
-[정유찬](https://button-prawn-437.notion.site/847610f15ae34c5695f846f6e73d1d71), 
+:sparkles: [정유찬](https://button-prawn-437.notion.site/847610f15ae34c5695f846f6e73d1d71), 
 [김원준](notionLink)
 
